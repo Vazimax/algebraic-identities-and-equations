@@ -1,1 +1,1 @@
-"# math_equations" 
+"# algebraic identities and equations"
